@@ -79,6 +79,7 @@ The following visualization shows How the price changed throughout the years. It
              
 ![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/Decision_tree.png?raw=true)
  
+ </details>
          
 
 ## Authors
