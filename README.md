@@ -41,7 +41,7 @@ import pydotplus
 
 ### Gathering the data
 
-The data for this project was gathered from the webpage Kaggle in the following links [Indicators](https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018/data#) [Apple Data](https://www.kaggle.com/camnugent/sandp500#all_stocks_5yr.csv) .
+The data for this project was gathered from the webpage Kaggle in the following links [Indicators].(https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018/data#) [Apple Data].(https://www.kaggle.com/camnugent/sandp500#all_stocks_5yr.csv) .
 
 The first data set includes indicators data (223 indicators to be precise) from 2014 to 2018. Only 2018 was used in this project.
 The Second data set contains Stock price data for a large list of stocks from 2013 to 2018. Only Apple was considered in this study.
