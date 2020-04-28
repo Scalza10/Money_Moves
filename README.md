@@ -54,66 +54,37 @@ The Data was divided in two main data sets that then were analyzed. The Apple da
 These are some visualization that were obtained from mine analysis. they will provide a summary of what mine conclusions were.
 
 <details>
-           <summary>Hypothesis testing</summary>
+           <summary>Average Share price</summary>
            <p>
          
-The following visualization shows non pitchers' voting percentage for entering the hall of fame, according to their hits. Also, it states if they made it to the hall of fame or not.
+The following visualization shows How the price changed throughout the years. It shows minimun, max and average value
 ![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/download.png?raw=true)
 
-The following visualization shows pitchers' voting percentage for entering the hall of fame, according to their Strikes Out. Also, it states if they made it to the hall of fame or not.
-![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz4.png?raw=true)
 </p>
 </details>
 <details>
-           <summary>Linear Regression prediction</summary>
+           <summary>Time Series</summary>
            <p>
                       
-   Comparison among the actual voting percentage, our model predicted percentage, and the trend predicted percentage.
+   This is mine actual time series model and one can see the predicted values and how close they were to the actual value. The model had a good accuracy interval.
 
-![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz7.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/Time_series.png?raw=true)
   </p>
          </details>
 <details>
-           <summary>Classification</summary>
+           <summary>Decision Tree</summary>
            <p>
   
-  Non pitchers decision tree. It states if they made it to the hall of fame depending on a statistic.
+  This Tree classifies a compny in whether it is profitable or not based on three indicators: Gross Margin, EPS, and return on assests.
              
-![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz8.png?raw=true)
-  Pitchers decision tree. It states if they made it to the hall of fame depending on a statistic.
-             ![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz9.png?raw=true)
-  </p>
-</details>
-<details>
-           <summary>Times series analysis</summary>
-           <p>
-  
-  Prediction for next years candidates' average strike outs according to our time series analysis.
-             
- ![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz12.png?raw=true)
-             
-  Prediction for next years candidates' average hits according to our time series analysis.
-             
-  ![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz15.png?raw=true)
-   
-  As shown, this analysis couldn't be properly perform due to our data.
-  </p>
-         </details>
-<details>
-           <summary>Clustering</summary>
-           <p>
-  
-  Clustering analysis that demonstrates the difference in statistics between pitchers and non pitchers. It shows that both classes have similar cluster even though there is a difference in the quantity of each class.
-  
-  ![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz18.png?raw=true)
-  </p>
-         </details>
+![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/Decision_tree.png?raw=true)
+ 
+         
 
 ## Authors
 
-* **Claudio Lupi** - *The Brain*
-* **Eduardo Reyna** - *The Muscle & Looks*
-* **Sebastian Calzadilla** - *The Soul*
+
+* **Sebastian Calzadilla** - *The one and only*
 
 
 ## License
@@ -122,5 +93,5 @@ This project is licensed under the STU License(Dpt. Of Science).
 ## Acknowledgments
 
 * **Dr. Mondesire, S.** - *Spiritual guide*
-* **Max Frank** - Helped to correct code
+* **Pier Paolo Ippolito** - His model was the one I studied and adapted for the time series analysis [His Link](https://towardsdatascience.com/stock-market-analysis-using-arima-8731ded2447a)
 * **God** - *He was always there*
