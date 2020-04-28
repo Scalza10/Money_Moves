@@ -93,6 +93,6 @@ The following visualization shows How the price changed throughout the years. It
 This project is licensed under the STU License(Dpt. Of Science).
 ## Acknowledgments
 
-* **Dr. Mondesire, S.** - *Spiritual guide*
-* **Pier Paolo Ippolito** - His model was the one I studied and adapted for the time series analysis [His Link](https://towardsdatascience.com/stock-market-analysis-using-arima-8731ded2447a)
-* **God** - *He was always there*
+* **Dr. Mondesire, S.** - *Guidance and doubt resolution*
+* **Pier Paolo Ippolito** - His model was the one I studied and adapted for the time series analysis. [His Link](https://towardsdatascience.com/stock-market-analysis-using-arima-8731ded2447a)
+* **Joao Pinheiro** - *Taught me how to determine if a company was profitable*
