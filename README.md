@@ -58,7 +58,7 @@ These are some visualization that were obtained from mine analysis. they will pr
            <p>
          
 The following visualization shows non pitchers' voting percentage for entering the hall of fame, according to their hits. Also, it states if they made it to the hall of fame or not.
-![alt text](https://github.com/TheCodeMaster2030/Money_Moves/tree/master/code/download.png?raw=true)
+![alt text](https://github.com/TheCodeMaster2030/Money_Moves/blob/master/code/download.png?raw=true)
 
 The following visualization shows pitchers' voting percentage for entering the hall of fame, according to their Strikes Out. Also, it states if they made it to the hall of fame or not.
 ![alt text](https://github.com/datamonsters10/Term-Project-Data-Science/blob/master/Project%20Graphs/Viz4.png?raw=true)
